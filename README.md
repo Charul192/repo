@@ -1,2 +1,2 @@
 # repo
-New repository
+New repository.
